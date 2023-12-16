@@ -1,0 +1,54 @@
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe.config
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\bloodbank.accdb
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.pdb
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.xml
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form1.resources
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form2.resources
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Resources.resources
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.exe
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.xml
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.pdb
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form3.resources
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form4.resources
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form5.resources
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form6.resources
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form7.resources
+C:\Users\Namir Khan\Documents\Visual Studio 2013\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe.config
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.exe
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.xml
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.pdb
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\bloodbank.accdb
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.pdb
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.xml
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form1.resources
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form2.resources
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form3.resources
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form4.resources
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form5.resources
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form6.resources
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form7.resources
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Resources.resources
+C:\Users\NAMIR\Documents\bcs fardin\vb projects\BloodBankManagementSystem\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe.config
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.exe
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.xml
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.pdb
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\bloodbank.accdb
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.pdb
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.xml
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form1.resources
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form2.resources
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form3.resources
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form4.resources
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form5.resources
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form6.resources
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Form7.resources
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Resources.resources
+C:\Users\NAMIR\Documents\bcs fardin\projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.vbproj.GenerateResource.Cache

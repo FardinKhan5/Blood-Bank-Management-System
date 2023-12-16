@@ -1,0 +1,164 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BloodBankManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:BloodBankManagementSystem.bloodbankDataSet.donationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.personDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.receiveDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.stockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.userDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.donationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.personRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.receiveRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.stockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.userRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.donationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.personRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.receiveRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.stockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet.userRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSetTableAdapters.donationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSetTableAdapters.personTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSetTableAdapters.receiveTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSetTableAdapters.stockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSetTableAdapters.userTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:BloodBankManagementSystem.bloodbankDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BloodBankManagementSystem.bloodbankDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:BloodBankManagementSystem.bloodbankDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BloodBankManagementSystem.bloodbankDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:BloodBankManagementSystem.bloodbankDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BloodBankManagementSystem.bloodbankDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:BloodBankManagementSystem.bloodbankDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:BloodBankManagementSystem.bloodbankDataSetTableAdapters.TableAdapterManager.UpdateAll(BloodBankManagementSystem.bloodbankDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:BloodBankManagementSystem.bloodbankDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:BloodBankManagementSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BloodBankManagementSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:BloodBankManagementSystem.My.Resources.Resources.background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BloodBankManagementSystem.My.Resources.Resources.background1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BloodBankManagementSystem.My.Resources.Resources.blood_donation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BloodBankManagementSystem.My.Resources.Resources.blood_receiver">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BloodBankManagementSystem.My.Resources.Resources.members">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BloodBankManagementSystem.My.Resources.Resources.stock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:BloodBankManagementSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

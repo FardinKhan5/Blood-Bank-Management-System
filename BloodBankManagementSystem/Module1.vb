@@ -1,0 +1,29 @@
+﻿Module Module1
+    Public totald As Decimal ' =0
+    Public totala As Decimal '=0
+    Public totalr As Decimal '=0
+    Public ap As Decimal '=0
+    Public an As Decimal '=0
+    Public bp As Decimal '=0
+    Public bn As Decimal '=0
+    Public op As Decimal '=0
+    Public oneg As Decimal '=0
+    Public abp As Decimal '=0
+    Public abn As Decimal '=0
+    Public ap1 As Decimal '=0
+    Public an1 As Decimal '=0
+    Public bp1 As Decimal '=0
+    Public bn1 As Decimal '=0
+    Public op1 As Decimal '=0
+    Public oneg1 As Decimal '=0
+    Public abp1 As Decimal '=0
+    Public abn1 As Decimal '=0
+    Public ap2 As Decimal '=0
+    Public an2 As Decimal '=0
+    Public bp2 As Decimal '=0
+    Public bn2 As Decimal '=0
+    Public op2 As Decimal '=0
+    Public oneg2 As Decimal '=0
+    Public abp2 As Decimal '=0
+    Public abn2 As Decimal '=0
+End Module
